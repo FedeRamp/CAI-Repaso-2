@@ -7,7 +7,7 @@ namespace Repaso2
         //Crear loop de 0 a 227
         //"Divisible por 3?" ^ "Es primo?"
         //Nunca va a ocurrir ambas cosas al mismo tiempo, si es div por 3, no es primo
-        //Truco interesante, si es divisible por 6, tiene un primo arriba o abajo
+       
         public static void Main(string[] args)
         {
             Console.Clear();
